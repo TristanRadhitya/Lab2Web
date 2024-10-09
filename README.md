@@ -6,7 +6,7 @@
    
 dengan mengacu pada CSS Cheat Sheet yang diberikan pada file terpisah dari modul ini.
 ![Screenshot 2024-10-09 054803](https://github.com/user-attachments/assets/215a173e-c417-4547-89c1-2d7980cd6e9d)
-disini saya mengubah warna dan hover dalam bagian nav nya menjadi hitam, lalu mengubah warna link informasi selengkapnya menjadi berwarna kuning
+disini saya mengubah warna dan hover dalam bagian nav nya menjadi biru muda, lalu mengubah warna link informasi selengkapnya menjadi berwarna kuning
 
 2. Apa perbedaan pendeklarasian CSS elemen h1 {...} dengan #intro h1 {...}? berikan penjelasannya!
 
